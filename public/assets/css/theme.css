@@ -23898,3 +23898,12 @@ a:hover .text-hover-primary {
 /*------------------------------------
   File for your custom SCSS style
 ------------------------------------*/
+
+
+.noDropdown::after{
+  content: none!important;
+}
+
+.pointer{
+  cursor: pointer;
+}
