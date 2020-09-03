@@ -14,16 +14,16 @@ const Header = () => {
             
             <div className="row mx-n2">
                 <div className = 'col-4 col-md px-2 mb-3'>
-                    <div className="h-100 bg-img-hero" style={{backgroundImage: 'url(aegIndiaWebsite/assets/img/about/parliament.jpg)'}}></div>
+                    <div className="h-100 bg-img-hero" style={{backgroundImage: 'url(/assets/img/about/parliament.jpg)'}}></div>
                 </div>
                 <div className = 'col-4 col-md px-2 mb-0'>
                     <div className = 'row'>
                         
                         <div className="col-6 col-md-6 d-none d-md-block px-2 mb-3">
-                            <div className="h-250rem bg-img-hero" style={{height: '300px', backgroundImage: 'url(aegIndiaWebsite/assets/img/about/education.jpg)'}}></div>
+                            <div className="h-250rem bg-img-hero" style={{height: '300px', backgroundImage: 'url(/assets/img/about/education.jpg)'}}></div>
                         </div>
                         <div className="col-6 col-md px-2 mb-3">
-                            <div className="h-250rem bg-img-hero h-100" style={{backgroundImage: 'url(aegIndiaWebsite/assets/img/about/tech.webp)'}}></div>
+                            <div className="h-250rem bg-img-hero h-100" style={{backgroundImage: 'url(/assets/img/about/tech.webp)'}}></div>
                         </div>
                     </div>
                 </div>
