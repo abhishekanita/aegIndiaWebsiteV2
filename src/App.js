@@ -29,7 +29,6 @@ function App() {
           <Route exact path = '/blogs' component = {Blogs}/>
           <Route path = '/blog/:id' component = {Blog}/>
           <Route path = '/' component = {Home}/>
-
         </Switch>
         </ScrollToTop>
       </Router>
